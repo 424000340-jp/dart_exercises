@@ -1,0 +1,14 @@
+========================================
+          COFFEE ORDER RECEIPT          
+========================================
+Customer Name: Alex Cruz
+Cups Purchased: 7
+Price per Cup: P120.50
+Loyalty Member: true
+----------------------------------------
+Subtotal: P843.50
+Free Cups Earned: 1 cup(s)
+Cups Needed for Next Free Drink: 3 cup(s)
+Final Amount Due: P723.00
+Qualifies for VIP Badge: true
+========================================
